@@ -16,7 +16,7 @@ export default [
       {
         id: '11',
         image:
-          'https://thumbs.gfycat.com/AliveIdenticalBangeltiger-size_restricted.gif',
+          'https://i0.wp.com/post.healthline.com/wp-content/uploads/2019/05/Incline-Pushups.gif',
         name: 'INCLINE PUSH-UPS',
         sets: 10,
       },
@@ -110,14 +110,15 @@ export default [
       },
       {
         id: '71',
-        image: 'https://thumbs.gfycat.com/CompleteZigzagFossa-max-1mb.gif',
+        image:
+          'https://qph.cf2.quoracdn.net/main-qimg-518d81ea5432a50dec240bb6b53a12e2',
         name: 'TRICEP DIPS',
         sets: 10,
       },
       {
         id: '72',
         image:
-          'https://thumbs.gfycat.com/MisguidedAridAlaskanmalamute-max-1mb.gif',
+          'https://post.healthline.com/wp-content/uploads/2018/12/Diamond-pushups.gif',
         name: 'DIAMOND_PUSHUP',
         sets: 10,
       },
@@ -173,14 +174,15 @@ export default [
       },
       {
         id: '22',
-        image: 'https://thumbs.gfycat.com/TheseRigidBorer-size_restricted.gif',
+        image:
+          'https://artimg.gympik.com/articles/wp-content/uploads/2019/03/BronzeVigilantKillifish-size_restricted.gif',
         name: 'SHOULDER STRETCH',
         sets: 5,
       },
       {
         id: '23',
         image:
-          'https://thumbs.gfycat.com/AlertAfraidAldabratortoise-max-1mb.gif',
+          'https://media.tenor.com/bHvaGEjp7PcAAAAC/workout-working-out.gif',
         name: 'COBRA STRETCH',
         sets: 4,
       },

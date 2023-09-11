@@ -9,6 +9,7 @@ import {
 import React, {useContext, useState} from 'react';
 import {useNavigation, useRoute} from '@react-navigation/native';
 import {FitnessItems} from '../Context';
+import FastImage from 'react-native-fast-image';
 
 const FitScreen = () => {
   const route = useRoute();
@@ -32,7 +33,7 @@ const FitScreen = () => {
 
   return (
     <SafeAreaView>
-      <Image
+      <FastImage
         style={{width: '100%', height: 370}}
         source={{uri: current.image}}
       />

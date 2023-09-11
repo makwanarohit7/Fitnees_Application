@@ -129,19 +129,19 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#BDD5D5', // Light gray background
+    backgroundColor: '#387e64', // Light gray background
   },
   timerText: {
     fontSize: 48,
     marginBottom: 20,
-    color: '#333', // Dark gray text color
+    color: 'black', // Dark gray text color
     fontFamily: 'Arial', // Custom font family if needed
   },
   soundPicker: {
     width: 250,
     height: 40,
     marginBottom: 20,
-    color: '#333',
+    color: 'black',
     borderColor: '#999',
     borderWidth: 1,
   },
@@ -152,7 +152,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     marginBottom: 20,
     paddingHorizontal: 10,
-    color: '#333', // Dark gray text color
+    color: 'black', // Dark gray text color
   },
   imageContainer: {
     borderRadius: 150, // Half of image width and height for a circle

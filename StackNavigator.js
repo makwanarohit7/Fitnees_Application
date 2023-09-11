@@ -6,7 +6,6 @@ import FitScreen from './Screens/FitScreen';
 import RestScreen from './Screens/RestScreen';
 import WorkOutScreen from './Screens/WorkoutScreen';
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
-import {Text, View} from 'react-native';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 import Meditation from './Screens/Meditation';
 import Helth from './Screens/Helth';

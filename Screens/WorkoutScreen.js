@@ -12,6 +12,7 @@ import {useNavigation, useRoute} from '@react-navigation/native';
 import {FitnessItems} from '../Context';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 import AntDesign from 'react-native-vector-icons/AntDesign';
+import FastImage from 'react-native-fast-image';
 
 const WorkOutScreen = () => {
   const route = useRoute();
@@ -37,7 +38,10 @@ const WorkOutScreen = () => {
           <Pressable
             style={{margin: 10, flexDirection: 'row', alignItems: 'center'}}
             key={index}>
-            <Image style={{width: 90, height: 90}} source={{uri: item.image}} />
+            <FastImage
+              style={{width: 90, height: 90}}
+              source={{uri: item.image}}
+            />
             <View style={{marginLeft: 10}}>
               <Text className="text-base font-bold text-gray-700 w-[170]">
                 {item.name}
